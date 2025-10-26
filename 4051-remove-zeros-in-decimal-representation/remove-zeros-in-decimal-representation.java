@@ -1,10 +1,11 @@
 class Solution {
     public long removeZeros(long n) {
-        String s=String.valueOf(n);
-        String ans="";
-        for(char c:s.toCharArray()){
-            if(c!='0') ans+=String.valueOf(c);
+        String str=String.valueOf(n);
+        String s="";
+        for(char c:str.toCharArray()){
+            if(c!='0')
+            s+=String.valueOf(c);
         }
-        return Long.valueOf(ans);
+        return Long.valueOf(s);
     }
 }
