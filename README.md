@@ -34,6 +34,9 @@ Languages I use most:
 
 ---
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/SAI-SON)
+
 ## 💡 How to Use
 
 Clone this repository and explore the solutions:
