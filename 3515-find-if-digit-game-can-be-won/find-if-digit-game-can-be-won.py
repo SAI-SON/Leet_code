@@ -4,8 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        sum1=sum2=0
-        for x in nums:
-            if x<10: sum1+=x
-            else: sum2+=x
-        return sum1!=sum2
+        # sum1=sum2=0
+        # for x in nums:
+        #     if x<10: sum1+=x
+        #     else: sum2+=x
+        # return sum1!=sum2
+        return sum(x for x in nums if x < 10)!= sum(x for x in nums if x>=10)
