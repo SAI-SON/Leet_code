@@ -1,46 +1,86 @@
-# 🧠 LeetCode & GitHub Journey by Sai Son
 
-Welcome to my **LeetCode Practice Repository**!  
-This repo contains my solutions to various **LeetCode problems**, showcasing my progress in **Data Structures & Algorithms** and **problem-solving skills**.
+# 🚀 LeetCode Solutions & DSA Journey
 
----
+Welcome to my **LeetCode Practice Repository**!
 
-## 🚀 About
-
-I’m using this repository to:
-- Strengthen my **DSA** and **algorithmic thinking** 🧩  
-- Prepare for **coding interviews** 💼  
-- Track my **coding journey** across platforms  
-
-Languages I use most:
-- 🐍 **Python**
-- ☕ **Java**
-- 💻 **C++**
+This repository contains my solutions to various **LeetCode problems**, demonstrating my growth in **Data Structures & Algorithms**, **problem-solving**, and **competitive programming**.
 
 ---
 
-## 📊 LeetCode Stats
+## 👨‍💻 About Me
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SAI-SON?theme=unicorn)
-![LeetCode Stats (Light)](https://leetcard.jacoblin.cool/SAI-SON?theme=light,unicorn)
+I am passionate about software development and continuously improving my coding skills through daily problem-solving.
+
+### Goals
+
+* Strengthen **Data Structures & Algorithms**
+* Improve **problem-solving abilities**
+* Prepare for **technical interviews**
+* Maintain consistency in coding practice
+
+### Languages Used
+
+* ☕ Java
+* 🐍 Python
+* 💻 C++
 
 ---
 
-## 🐙 GitHub Stats
+## 📂 Repository Structure
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAI-SON&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAI-SON&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAI-SON&theme=radical)
+```text
+Leet_code/
+├── Arrays/
+├── Strings/
+├── Linked Lists/
+├── Trees/
+├── Graphs/
+├── Dynamic Programming/
+├── Greedy/
+└── Miscellaneous/
+```
+
+Each solution includes:
+
+* Problem statement link
+* Approach explanation
+* Time Complexity
+* Space Complexity
+* Clean and optimized code
 
 ---
 
+## 📊 LeetCode Statistics
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SAI-SON)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Saison?theme=dark\&font=baloo\&ext=contest)
 
-## 💡 How to Use
+---
 
-Clone this repository and explore the solutions:
+## 🐙 GitHub Statistics
 
-```bash
-git clone https://github.com/SAI-SON/Leet_code.git
-cd Leet_code
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAI-SON\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAI-SON\&layout=compact\&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAI-SON\&theme=radical)
+
+---
+
+## 🔥 Current Focus
+
+* Data Structures & Algorithms
+* Competitive Programming
+* Full Stack Development
+* Interview Preparation
+
+---
+
+## 📌 Connect With Me
+
+* GitHub: https://github.com/SAI-SON
+* LeetCode: https://leetcode.com/u/Saison/
+
+---
+
+⭐ If you find this repository useful, feel free to star it and follow my coding journey!
+
