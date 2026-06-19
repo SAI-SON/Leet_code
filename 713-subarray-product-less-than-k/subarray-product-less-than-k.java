@@ -5,7 +5,7 @@ class Solution {
             int ans=1;
             for(int j=i;j<nums.length;j++){
                 ans*=nums[j];
-                if(ans>=k) break;
+                if(k<=ans) break;
                 c++;
             }
         }
