@@ -117,6 +117,7 @@ Each solution includes:
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -184,4 +185,12 @@ Each solution includes:
 | [0700-search-in-a-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SAI-SON/Leet_code/tree/master/0938-range-sum-of-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
