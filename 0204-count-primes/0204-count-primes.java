@@ -1,0 +1,25 @@
+class Solution {
+    public int countPrimes(int n) {
+        if(n<=2) return 0;
+        // if(n<4) return 0;
+        int arr[]=new int[n+1];
+        
+        arr[0]=1;
+        arr[1]=1;
+        for(int i=2;i*i<=n;i++){
+            if(arr[i]==0){
+                for(int j=i*i;j<=n;j+=i){
+                    arr[j]=1;
+                }
+            }
+        }
+        // System.out.println(Arrays.toString(arr));
+        int count=0;
+        for(int i=0;i<arr.length-1;i++){
+            if(arr[i]==0){
+                count++;
+            }
+        }
+        return count;
+    }
+}
