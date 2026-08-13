@@ -84,3 +84,27 @@ Each solution includes:
 
 ⭐ If you find this repository useful, feel free to star it and follow my coding journey!
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
+## Union-Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
+## Graph Theory
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
+<!---LeetCode Topics End-->
