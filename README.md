@@ -122,6 +122,7 @@ Each solution includes:
 | [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SAI-SON/Leet_code/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0137-single-number-ii](https://github.com/SAI-SON/Leet_code/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/SAI-SON/Leet_code/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
@@ -223,6 +224,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SAI-SON/Leet_code/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/SAI-SON/Leet_code/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/SAI-SON/Leet_code/tree/master/0260-single-number-iii) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
 ## Brainteaser
