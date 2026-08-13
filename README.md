@@ -156,6 +156,7 @@ Each solution includes:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SAI-SON/Leet_code/tree/master/0450-delete-node-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SAI-SON/Leet_code/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -164,6 +165,7 @@ Each solution includes:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SAI-SON/Leet_code/tree/master/0450-delete-node-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SAI-SON/Leet_code/tree/master/0938-range-sum-of-bst) |
 ## Stack
@@ -175,6 +177,7 @@ Each solution includes:
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SAI-SON/Leet_code/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SAI-SON/Leet_code/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
