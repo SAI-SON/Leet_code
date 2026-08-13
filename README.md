@@ -141,6 +141,7 @@ Each solution includes:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/SAI-SON/Leet_code/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/SAI-SON/Leet_code/tree/master/3618-split-array-by-prime-indices) |
@@ -151,6 +152,7 @@ Each solution includes:
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SAI-SON/Leet_code/tree/master/1338-reduce-array-size-to-the-half) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/SAI-SON/Leet_code/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
@@ -172,6 +174,7 @@ Each solution includes:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/SAI-SON/Leet_code/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
@@ -297,6 +300,7 @@ Each solution includes:
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/SAI-SON/Leet_code/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
 | ------- |
