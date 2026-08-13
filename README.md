@@ -92,6 +92,7 @@ Each solution includes:
 | ------- |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Depth-First Search
 |  |
@@ -136,6 +137,7 @@ Each solution includes:
 | [1331-rank-transform-of-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SAI-SON/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -163,12 +165,14 @@ Each solution includes:
 | [1331-rank-transform-of-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -278,4 +282,12 @@ Each solution includes:
 |  |
 | ------- |
 | [0553-optimal-division](https://github.com/SAI-SON/Leet_code/tree/master/0553-optimal-division) |
+## Two Pointers
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
