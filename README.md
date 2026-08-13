@@ -129,6 +129,7 @@ Each solution includes:
 | [0078-subsets](https://github.com/SAI-SON/Leet_code/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/SAI-SON/Leet_code/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/SAI-SON/Leet_code/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/SAI-SON/Leet_code/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAI-SON/Leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -239,6 +240,7 @@ Each solution includes:
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SAI-SON/Leet_code/tree/master/0204-count-primes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAI-SON/Leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0553-optimal-division](https://github.com/SAI-SON/Leet_code/tree/master/0553-optimal-division) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
@@ -247,6 +249,7 @@ Each solution includes:
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SAI-SON/Leet_code/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SAI-SON/Leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
@@ -304,4 +307,20 @@ Each solution includes:
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SAI-SON/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SAI-SON/Leet_code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SAI-SON/Leet_code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SAI-SON/Leet_code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SAI-SON/Leet_code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
