@@ -94,6 +94,7 @@ Each solution includes:
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SAI-SON/Leet_code/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
@@ -101,14 +102,17 @@ Each solution includes:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SAI-SON/Leet_code/tree/master/0547-number-of-provinces) |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SAI-SON/Leet_code/tree/master/0547-number-of-provinces) |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SAI-SON/Leet_code/tree/master/0547-number-of-provinces) |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 ## Array
 |  |
