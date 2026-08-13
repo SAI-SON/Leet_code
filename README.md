@@ -117,6 +117,7 @@ Each solution includes:
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SAI-SON/Leet_code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
@@ -189,6 +190,7 @@ Each solution includes:
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SAI-SON/Leet_code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
