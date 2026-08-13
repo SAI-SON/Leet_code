@@ -201,4 +201,12 @@ Each solution includes:
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SAI-SON/Leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/SAI-SON/Leet_code/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/SAI-SON/Leet_code/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
