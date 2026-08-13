@@ -143,6 +143,7 @@ Each solution includes:
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3618-split-array-by-prime-indices](https://github.com/SAI-SON/Leet_code/tree/master/3618-split-array-by-prime-indices) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SAI-SON/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -245,6 +246,7 @@ Each solution includes:
 | [0553-optimal-division](https://github.com/SAI-SON/Leet_code/tree/master/0553-optimal-division) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SAI-SON/Leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3618-split-array-by-prime-indices](https://github.com/SAI-SON/Leet_code/tree/master/3618-split-array-by-prime-indices) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SAI-SON/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
@@ -311,6 +313,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SAI-SON/Leet_code/tree/master/0204-count-primes) |
+| [3618-split-array-by-prime-indices](https://github.com/SAI-SON/Leet_code/tree/master/3618-split-array-by-prime-indices) |
 ## Primality Test
 |  |
 | ------- |
