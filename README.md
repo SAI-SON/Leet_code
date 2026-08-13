@@ -131,6 +131,7 @@ Each solution includes:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAI-SON/Leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAI-SON/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SAI-SON/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -153,11 +154,13 @@ Each solution includes:
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAI-SON/Leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
