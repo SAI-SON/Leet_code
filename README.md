@@ -92,6 +92,7 @@ Each solution includes:
 | ------- |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,12 +135,14 @@ Each solution includes:
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SAI-SON/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -157,6 +160,7 @@ Each solution includes:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAI-SON/Leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,6 +211,7 @@ Each solution includes:
 | [0700-search-in-a-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SAI-SON/Leet_code/tree/master/0938-range-sum-of-bst) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Backtracking
 |  |
 | ------- |
