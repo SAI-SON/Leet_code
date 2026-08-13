@@ -120,6 +120,7 @@ Each solution includes:
 | [0039-combination-sum](https://github.com/SAI-SON/Leet_code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SAI-SON/Leet_code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/SAI-SON/Leet_code/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
@@ -195,6 +196,7 @@ Each solution includes:
 | [0046-permutations](https://github.com/SAI-SON/Leet_code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/SAI-SON/Leet_code/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/SAI-SON/Leet_code/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Each solution includes:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SAI-SON/Leet_code/tree/master/0078-subsets) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
 ## Brainteaser
 |  |
