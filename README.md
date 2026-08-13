@@ -258,6 +258,7 @@ Each solution includes:
 | [0137-single-number-ii](https://github.com/SAI-SON/Leet_code/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/SAI-SON/Leet_code/tree/master/0260-single-number-iii) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SAI-SON/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Brainteaser
 |  |
 | ------- |
@@ -290,4 +291,12 @@ Each solution includes:
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## String
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SAI-SON/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Simulation
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SAI-SON/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
