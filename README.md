@@ -193,4 +193,12 @@ Each solution includes:
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SAI-SON/Leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SAI-SON/Leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
