@@ -100,6 +100,7 @@ Each solution includes:
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/SAI-SON/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/SAI-SON/Leet_code/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
@@ -110,6 +111,7 @@ Each solution includes:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SAI-SON/Leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SAI-SON/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/SAI-SON/Leet_code/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAI-SON/Leet_code/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
@@ -205,6 +207,7 @@ Each solution includes:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SAI-SON/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/SAI-SON/Leet_code/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
@@ -216,6 +219,7 @@ Each solution includes:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SAI-SON/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/SAI-SON/Leet_code/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
