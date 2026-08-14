@@ -98,6 +98,7 @@ Each solution includes:
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SAI-SON/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/SAI-SON/Leet_code/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -109,6 +110,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SAI-SON/Leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SAI-SON/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/SAI-SON/Leet_code/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -207,6 +209,7 @@ Each solution includes:
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SAI-SON/Leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SAI-SON/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/SAI-SON/Leet_code/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -219,6 +222,7 @@ Each solution includes:
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SAI-SON/Leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SAI-SON/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/SAI-SON/Leet_code/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SAI-SON/Leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
