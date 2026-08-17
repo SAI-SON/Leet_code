@@ -91,6 +91,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SAI-SON/Leet_code/tree/master/1338-reduce-array-size-to-the-half) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -234,6 +235,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -324,6 +326,7 @@ Each solution includes:
 ## String
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SAI-SON/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SAI-SON/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
@@ -351,4 +354,8 @@ Each solution includes:
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAI-SON/Leet_code/tree/master/1091-shortest-path-in-binary-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
