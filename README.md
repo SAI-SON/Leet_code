@@ -92,6 +92,7 @@ Each solution includes:
 | ------- |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/SAI-SON/Leet_code/tree/master/0942-di-string-match) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SAI-SON/Leet_code/tree/master/1338-reduce-array-size-to-the-half) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SAI-SON/Leet_code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -144,6 +145,7 @@ Each solution includes:
 | [0540-single-element-in-a-sorted-array](https://github.com/SAI-SON/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/SAI-SON/Leet_code/tree/master/0553-optimal-division) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
+| [0942-di-string-match](https://github.com/SAI-SON/Leet_code/tree/master/0942-di-string-match) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAI-SON/Leet_code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SAI-SON/Leet_code/tree/master/1338-reduce-array-size-to-the-half) |
@@ -321,6 +323,7 @@ Each solution includes:
 ## Two Pointers
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/SAI-SON/Leet_code/tree/master/0942-di-string-match) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SAI-SON/Leet_code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SAI-SON/Leet_code/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
@@ -331,6 +334,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/SAI-SON/Leet_code/tree/master/0942-di-string-match) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SAI-SON/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAI-SON/Leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SAI-SON/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
