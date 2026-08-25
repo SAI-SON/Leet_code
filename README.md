@@ -157,6 +157,7 @@ Each solution includes:
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SAI-SON/Leet_code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/SAI-SON/Leet_code/tree/master/3618-split-array-by-prime-indices) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SAI-SON/Leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SAI-SON/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@ Each solution includes:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAI-SON/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAI-SON/Leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SAI-SON/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SAI-SON/Leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
