@@ -90,6 +90,7 @@ Each solution includes:
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/SAI-SON/Leet_code/tree/master/0316-remove-duplicate-letters) |
 | [0765-couples-holding-hands](https://github.com/SAI-SON/Leet_code/tree/master/0765-couples-holding-hands) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/SAI-SON/Leet_code/tree/master/0942-di-string-match) |
@@ -245,6 +246,7 @@ Each solution includes:
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/SAI-SON/Leet_code/tree/master/0316-remove-duplicate-letters) |
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search Tree
@@ -340,6 +342,7 @@ Each solution includes:
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/SAI-SON/Leet_code/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/SAI-SON/Leet_code/tree/master/0942-di-string-match) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SAI-SON/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -378,4 +381,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/SAI-SON/Leet_code/tree/master/0968-binary-tree-cameras) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/SAI-SON/Leet_code/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
