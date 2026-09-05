@@ -137,6 +137,7 @@ Each solution includes:
 | ------- |
 | [0039-combination-sum](https://github.com/SAI-SON/Leet_code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SAI-SON/Leet_code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SAI-SON/Leet_code/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SAI-SON/Leet_code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SAI-SON/Leet_code/tree/master/0090-subsets-ii) |
@@ -187,6 +188,7 @@ Each solution includes:
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/SAI-SON/Leet_code/tree/master/0047-permutations-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SAI-SON/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAI-SON/Leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1331-rank-transform-of-an-array) |
@@ -267,6 +269,7 @@ Each solution includes:
 | ------- |
 | [0039-combination-sum](https://github.com/SAI-SON/Leet_code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SAI-SON/Leet_code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SAI-SON/Leet_code/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SAI-SON/Leet_code/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/SAI-SON/Leet_code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SAI-SON/Leet_code/tree/master/0078-subsets) |
