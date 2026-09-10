@@ -112,6 +112,7 @@ Each solution includes:
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SAI-SON/Leet_code/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/SAI-SON/Leet_code/tree/master/0968-binary-tree-cameras) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SAI-SON/Leet_code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Each solution includes:
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SAI-SON/Leet_code/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/SAI-SON/Leet_code/tree/master/0968-binary-tree-cameras) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SAI-SON/Leet_code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Each solution includes:
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SAI-SON/Leet_code/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/SAI-SON/Leet_code/tree/master/0968-binary-tree-cameras) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SAI-SON/Leet_code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
