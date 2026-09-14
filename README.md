@@ -289,6 +289,7 @@ Each solution includes:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAI-SON/Leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0553-optimal-division](https://github.com/SAI-SON/Leet_code/tree/master/0553-optimal-division) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
+| [0836-rectangle-overlap](https://github.com/SAI-SON/Leet_code/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SAI-SON/Leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3618-split-array-by-prime-indices](https://github.com/SAI-SON/Leet_code/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SAI-SON/Leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -402,4 +403,8 @@ Each solution includes:
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SAI-SON/Leet_code/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SAI-SON/Leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SAI-SON/Leet_code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
