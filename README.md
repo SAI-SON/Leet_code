@@ -257,6 +257,7 @@ Each solution includes:
 | [0897-increasing-order-search-tree](https://github.com/SAI-SON/Leet_code/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SAI-SON/Leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SAI-SON/Leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -363,6 +364,7 @@ Each solution includes:
 | [0942-di-string-match](https://github.com/SAI-SON/Leet_code/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SAI-SON/Leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SAI-SON/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SAI-SON/Leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAI-SON/Leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SAI-SON/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
@@ -394,6 +396,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAI-SON/Leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SAI-SON/Leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
