@@ -152,6 +152,7 @@ Each solution includes:
 | [0540-single-element-in-a-sorted-array](https://github.com/SAI-SON/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/SAI-SON/Leet_code/tree/master/0553-optimal-division) |
 | [0810-chalkboard-xor-game](https://github.com/SAI-SON/Leet_code/tree/master/0810-chalkboard-xor-game) |
+| [0867-transpose-matrix](https://github.com/SAI-SON/Leet_code/tree/master/0867-transpose-matrix) |
 | [0942-di-string-match](https://github.com/SAI-SON/Leet_code/tree/master/0942-di-string-match) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAI-SON/Leet_code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/SAI-SON/Leet_code/tree/master/1331-rank-transform-of-an-array) |
@@ -372,6 +373,7 @@ Each solution includes:
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/SAI-SON/Leet_code/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SAI-SON/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Number Theory
 |  |
@@ -393,6 +395,7 @@ Each solution includes:
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/SAI-SON/Leet_code/tree/master/0867-transpose-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAI-SON/Leet_code/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Bracket Sequences
 |  |
